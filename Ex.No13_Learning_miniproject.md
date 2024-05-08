@@ -5,6 +5,7 @@
 To write a program to train the classifier for diabeties.
 
 ###  Algorithm:
+
 Step 1: Load the diabetes dataset.
 Step 2: Split the dataset into features (input) and target variable (output).
 Step 3: Split the data into training and testing sets.
